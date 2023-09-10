@@ -8,7 +8,7 @@ luizrecosta@gmail.com
 
 # Objetivo
 
-Muitos dos casos, econtramos questões que possuímos dúvidas ou que estamos errando por um pequeno detalhe. E por meio desses códigos corretos, podemos tirar as nossas dúvidas, entender o que erramos e corrigir o nosso código.
+Muitos dos casos, encontramos questões que possuímos dúvidas ou que estamos errando por um pequeno detalhe. E por meio desses códigos corretos, podemos tirar as nossas dúvidas, entender o que erramos e corrigir o nosso código.
 
 Recomendo utilizar das respostas apenas para guiar o seu código, e não Ctrl+C e Ctrl+V.
 
@@ -18,7 +18,7 @@ Após fazer as questões em que foram consultadas nesse repositório, no dia seg
 
 
 ## Formato
-As questões estaram localizadas em suas pastas com o nome da  linguagem utilizada na solução.
+As questões estarão localizadas em suas pastas com o nome da  linguagem utilizada na solução.
 
 #### Exemplo:
 
